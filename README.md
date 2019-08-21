@@ -1,2 +1,3 @@
 # gitstudy
-studt
+study
+
